@@ -1,12 +1,18 @@
 ![NyxEngine Logo](docs/readme_assets/nyx-logo-horizontal.png)
-**NyxEngine:** An experimental, high-performance game engine and rendering pipeline for the terminal. Written in Python with NumPy.
-[cmorman89/nyx-engine](https://github.com/cmorman89/nyx-engine)
+
+## **NyxEngine:**
+An experimental, high-performance game engine and rendering pipeline for the terminal. Written in Python with NumPy.
+
+### See it in action: [NyxEngine (GitHub Pages)](https://cmorman89.github.io/nyx-engine)
 
 ---
+
 ## Status Update: 
+
 ### **Release v0.1.0-alpha:** _(12/27/2024)_
+
 <details>
-<summary>Click here to view the demo!</summary>
+<summary>Click here to expand the demo!</summary>
 
 >  ### **Major Performance Gain** 
 > 
@@ -20,3 +26,7 @@
 > |:--:|
 > | **Printing speed of V0.0.4-alpha** _(left, 0.0954 sec/frame)_ **vs v0.1.0-alpha** _(right, 0.0069 sec/frame)_ <br> _Internal Resolution: 640 x 480_  |
 </details>
+
+---
+
+### Repo: [cmorman89/nyx-engine](https://github.com/cmorman89/nyx-engine)
