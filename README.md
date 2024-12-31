@@ -3,13 +3,13 @@
 ## **NyxEngine:**
 An experimental, high-performance game engine and rendering pipeline for the terminal. Written in Python with NumPy.
 
-### See it in action: [NyxEngine (GitHub Pages)](https://cmorman89.github.io/nyx-engine)
+**See it in action: [NyxEngine (GitHub Pages)](https://cmorman89.github.io/nyx-engine)**
 
 ---
 
-## Status Update: 
+**Status Update:**
 
-### **Release v0.1.0-alpha:** _(12/27/2024)_
+**Release v0.1.0-alpha:** _(12/27/2024)_
 
 <details>
 <summary>Click here to expand the demo!</summary>
