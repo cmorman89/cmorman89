@@ -1,7 +1,7 @@
 ![NyxEngine Logo](docs/readme_assets/nyx-logo-horizontal.png)
 
 ## **NyxEngine:**
-An experimental, high-performance game engine and rendering pipeline for the terminal. Written in Python with NumPy.
+An experimental, high-performance graphic rendering pipeline and game engine for the terminal. Written in Python with NumPy.
 
 **See it in action: [NyxEngine (GitHub Pages)](https://cmorman89.github.io/nyx-engine)**
 
