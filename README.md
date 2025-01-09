@@ -1,4 +1,4 @@
-![NyxEngine Logo](docs/readme_assets/nyx-logo-horizontal.png)
+[![NyxEngine Logo](docs/readme_assets/nyx-logo-horizontal.png)](https://github.com/cmorman89/nyx-engine)
 
 ## **NyxEngine:**
 An experimental, high-performance graphic rendering pipeline and game engine for the terminal. Written in Python with NumPy.
@@ -7,7 +7,7 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 
 ---
 
-### **Status Updates:**
+## **Status Updates:**
 
 **Rust Progress** ([Demo](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU)): _(01/07/2024)_
 <details>
@@ -26,6 +26,8 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 > - Figure out how to profile Rust code to get a better idea of where the bottlenecks are and begin aggressively optimizing the code.
 
 </details>
+
+---
 
 **Release v0.1.0-alpha:** _(12/27/2024)_
 
