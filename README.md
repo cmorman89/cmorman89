@@ -7,7 +7,25 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 
 ---
 
-**Status Update:**
+### **Status Updates:**
+
+**Rust Progress** ([Demo](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU)): _(01/07/2024)_
+<details>
+<summary>TrueColor 24-bit Terminal Printing</summary>
+
+> The transition to Rust is well underway, and progressing much faster than I had anticipated given Rust's reputation for a steep learning curve. I am still working on properly benchmarking Rust code, so I have no hard numbers to share yet. However, the Rust code is already vastly outperforming the Python code, even in its current state. Right now, I am in the "just get it to work" stage so it lacks any significant optimizations. Despite this, the Rust version of `HemeraTermFx` can print full 24-bit RGB color to to the terminal at a relatively usable speed and resolution (360*200 @~20-60 fps).
+> 
+> See print GIF demos [here](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU) (note: same link as above).
+>
+> The next steps are to:
+> - Properly allocate memory for the various buffers -- and reusing those buffers throughout the lifetime of the program.
+> - Begin working on a basic delta framebuffer system once the memory allocation is sorted.
+> - Trial various quantization methods for the 24-bit RGB colors to allow for dynamic fidelity adjustments as a means to keep a stable frame rate.
+>   - For example, if the framerate is slipping, the engine can automatically reduce the color fidelity to maintain a stable frame rate.
+>   - Conversely, if the engine is spending time sleeping, it can increase the color fidelity to improve the visual quality.
+> - Figure out how to profile Rust code to get a better idea of where the bottlenecks are and begin aggressively optimizing the code.
+
+</details>
 
 **Release v0.1.0-alpha:** _(12/27/2024)_
 
