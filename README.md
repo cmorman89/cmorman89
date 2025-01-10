@@ -9,7 +9,7 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 
 ## **Status Updates:**
 
-**Rust Progress** ([Demo](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU)): _(01/07/2024)_
+**Rust Progress** ([Demo](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU)): _(01/07/2025)_
 <details>
 <summary>TrueColor 24-bit Terminal Printing</summary>
 
