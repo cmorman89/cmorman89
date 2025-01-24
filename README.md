@@ -10,7 +10,7 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 ## **Status Updates:**
 
 **Note**
-I have to take a temporary development break for NyxEngine as I focus on finding a job these next couple of weeks! If you notice less activity, the project is not dead -- just paused for now.
+I have to take a temporary development break from NyxEngine as I focus on finding a job these next couple of weeks! If you notice less activity, the project is not dead -- just paused for now.
 
 ---
 
