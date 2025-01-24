@@ -8,6 +8,9 @@ An experimental, high-performance graphic rendering pipeline and game engine for
 ---
 
 ## **Status Updates:**
+**Note**: Temporary development break for NyxEngine as I focus on the job search these next couple of weeks! If you notice less activity, the project is not dead -- just paused for now.
+
+---
 
 **Rust Progress** ([Demo](https://www.youtube.com/playlist?list=PLvkXEUKaigSyHm_Q2-Cmmdko0IKtBOLpU)): _(01/07/2025)_
 <details>
