@@ -1,3 +1,9 @@
+[![promptBot](https://github.com/user-attachments/assets/1b19770f-b7f6-4c75-a5ad-78b618b76211)](https://cmorman89.github.io/local-ai-chatbot)
+## prompt:BOT
+React-based UI for interacting with a locally-hosted LLM (such as with LM Studio).
+
+---
+
 [![NyxEngine Logo](docs/readme_assets/nyx-logo-horizontal.png)](https://github.com/cmorman89/nyx-engine)
 
 ## **NyxEngine:**
