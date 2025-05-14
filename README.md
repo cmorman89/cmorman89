@@ -1,6 +1,27 @@
+[![MIMIQ](https://github.com/cmorman89/mimiq/raw/main/docs/images/mimiq.png)](https://github.com/cmorman89/mimiq/)
+## MIMIQ (**Current Project**)
+MIMIQ is an AI-powered content generation platform that helps businesses maintain their unique voice across various media. By analyzing existing content and leveraging local large language models, MIMIQ enables non-technical users to create stylistically consistent blog posts, newsletters, and other content that matches their brand's tone and style.
+[![Home page screenshot](https://github.com/cmorman89/mimiq/raw/main/docs/images/home.png)](https://github.com/cmorman89/mimiq/)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+# Other Projects:
+
+## prompt:BOT (**Simple PoC**)
+React-based UI for interacting with a locally-hosted LLM (such as with LM Studio). Simple PoC for a certification final prooject.
+- *Note: Requires LM Studio developer API to be running on your local machine*
 [![promptBot](https://github.com/user-attachments/assets/1b19770f-b7f6-4c75-a5ad-78b618b76211)](https://cmorman89.github.io/local-ai-chatbot)
-## prompt:BOT
-React-based UI for interacting with a locally-hosted LLM (such as with LM Studio).
+
+<br>
+<br>
+<br>
 
 ---
 
